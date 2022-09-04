@@ -1,6 +1,6 @@
-# JasmineKarmaExamples
+![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)
 
- Jasmine Karma Examples
+# Jasmine Karma Examples
 
 ## Introduction      
 
@@ -50,7 +50,7 @@ Enter empty string to move to the the question.
 Press tab to list possible option
 >yes
 
-Config file generated at "Users/smith/code/karma.conf.js"
+Config file generated at "Users/cusey/code/karma.conf.js"
 
 ```
 
@@ -70,7 +70,13 @@ $ ng test
 $ ng test --code-coverage
 ```
 <img 
-src="https://github.com/jims6602/ImageForWiki/blob/main/JasmineKarmaExamples/code-coverage.PNG" 
+src="https://github.com/cusey/ImageForWiki/blob/master/JasmineKarmaExamples/code-coverage.PNG" 
 alt="Code Coverage" 
 height="350px"/>  
 
+
+## Authors
+* John Cusey - CuseyHub  
+
+## License   
+This project is licensed under the MIT License
